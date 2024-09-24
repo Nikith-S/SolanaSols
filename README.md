@@ -62,7 +62,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Darshan S P - [darshanspdarshu6172@gmail.com.com](mailto:darshan@example.com)
-
-Project Link: [https://github.com/Darshan-S-P/Sols](https://github.com/Darshan-S-P/Sols)
 
