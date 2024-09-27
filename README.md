@@ -31,7 +31,7 @@ Make sure you have npm installed. You can get it from [Node.js](https://nodejs.o
 
 1. Clone the repo
     ```sh
-   git clone https://github.com/Darshan-S-P/Sols.git
+   git clone https://github.com/Nikith-S/SolanaSols.git
     ```
 2 .Navigate to the project directory
   ```sh
